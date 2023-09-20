@@ -1,0 +1,18 @@
+-- import: fastn
+
+-- fastn.package: tirthangkar01.github.io/fastn_project2
+favicon: /-/tirthangkar01.github.io/fastn_project2/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+
+-- fastn.auto-import: tirthangkar01.github.io/fastn_project2/FASTN/ds
+-- fastn.auto-import: tirthangkar01.github.io/fastn_project2/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
